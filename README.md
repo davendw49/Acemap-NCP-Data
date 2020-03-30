@@ -7,6 +7,7 @@
 - [看新冠病毒的笼罩下，我们是如何反击的](https://mp.weixin.qq.com/s/oH2y0WPACDkAWQQhznsHqw)
 - [面对新冠病毒，用知识图谱助力早发现早报告](https://mp.weixin.qq.com/s/SHiWPu5UZqMVQbPsb3p5dw)
 
+## *所有的数据均是截止于2020年3月28日*我们将会定期进行更新和补充
 
 ## paper data
 
